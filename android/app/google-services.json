@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1013924630439",
+    "project_id": "tastiepunjab",
+    "storage_bucket": "tastiepunjab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013924630439:android:fb3dc2782a70b71b08f082",
+        "android_client_info": {
+          "package_name": "com.yogesh.tasty_punjab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013924630439-qtmkhe6vsl06gjj1234pcbb9vmhdlv9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOvNCupAAPcEXFNLiMNP4vJnqSZH91pI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013924630439-qtmkhe6vsl06gjj1234pcbb9vmhdlv9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
